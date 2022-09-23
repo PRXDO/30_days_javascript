@@ -3,7 +3,7 @@
 ## Dia 1
 ### Projeto: Conversor de texto para fala
 
-<img src="https://github.com/PRXDO/30_days_javascript/blob/main/Day%201/img.png?raw=true" width="100%" />
+<img src="https://github.com/PRXDO/30_days_javascript/blob/main/Day%201/img.png?raw=true"  width="350" />
 
 
 
